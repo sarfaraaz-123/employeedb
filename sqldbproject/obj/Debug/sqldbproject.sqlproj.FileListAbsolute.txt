@@ -1,0 +1,6 @@
+C:\Users\H_7\source\repos\sqldbproject\sqldbproject\bin\Debug\sqldbproject.dacpac
+C:\Users\H_7\source\repos\sqldbproject\sqldbproject\bin\Debug\sqldbproject.dll
+C:\Users\H_7\source\repos\sqldbproject\sqldbproject\bin\Debug\sqldbproject.pdb
+C:\Users\H_7\source\repos\sqldbproject\sqldbproject\obj\Debug\sqldbproject.sqlprojAssemblyReference.cache
+C:\Users\H_7\source\repos\sqldbproject\sqldbproject\obj\Debug\sqldbproject.dll
+C:\Users\H_7\source\repos\sqldbproject\sqldbproject\obj\Debug\sqldbproject.pdb
